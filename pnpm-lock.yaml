@@ -2,7 +2,7 @@ lockfileVersion: 5.4
 
 specifiers:
   '@iconify/json': 2.1.104
-  '@nuxt/test-utils-edge': 3.0.0-rc.8-27676327.dae836a
+  '@nuxt/test-utils-edge': 3.0.0-rc.9-27703329.537338f
   '@pinia/nuxt': 0.4.2
   '@testing-library/vue': 6.6.1
   '@typescript-eslint/eslint-plugin': 5.36.2
@@ -40,7 +40,7 @@ dependencies:
 
 devDependencies:
   '@iconify/json': 2.1.104
-  '@nuxt/test-utils-edge': 3.0.0-rc.8-27676327.dae836a
+  '@nuxt/test-utils-edge': 3.0.0-rc.9-27703329.537338f
   '@testing-library/vue': 6.6.1
   '@typescript-eslint/eslint-plugin': 5.36.2_iurrlxgqcgk5svigzxakafpeuu
   '@typescript-eslint/parser': 5.36.2_yqf6kl63nyoq5megxukfnom5rm
@@ -598,11 +598,11 @@ packages:
     resolution: {integrity: sha512-YBI/6o2EBz02tdEJRBK8xkt3zvOFOWlLBf7WKYGBsSYSRtjjgrqPe2skp6VLLmKx5WbHHDNcW+6oACaurxGzeA==}
     dev: true
 
-  /@nuxt/kit-edge/3.0.0-rc.8-27676327.dae836a:
-    resolution: {integrity: sha512-QkzS6oWT5Ue6zqzrg9ORql5XMhbL9QxpWhcMazYY79rqfzNBevNWSZZfcqnefoqNDQ6rqrqAA6ahfT3aS/LJLA==}
+  /@nuxt/kit-edge/3.0.0-rc.9-27703329.537338f:
+    resolution: {integrity: sha512-kRISF8xbAuhUy91HPbU8UsbQGGuARP5iXUwD25H/4MUuhcnsaOKTh2xeN49spFfnu/n+PqUj6AHu0YIhta3HdQ==}
     engines: {node: ^14.16.0 || ^16.11.0 || ^17.0.0 || ^18.0.0}
     dependencies:
-      '@nuxt/schema': /@nuxt/schema-edge/3.0.0-rc.8-27676327.dae836a
+      '@nuxt/schema': /@nuxt/schema-edge/3.0.0-rc.9-27703329.537338f
       c12: 0.2.11
       consola: 2.15.3
       defu: 6.1.0
@@ -687,8 +687,8 @@ packages:
       - webpack
     dev: true
 
-  /@nuxt/schema-edge/3.0.0-rc.8-27676327.dae836a:
-    resolution: {integrity: sha512-QopDJ5X6SXUMYWharsTpHIY7ICmwThkkq1BpqNL0/C/y3xaOJ+YsuRTIJdIRDAGbTYn4gENlQfR7L3R+AHgAeQ==}
+  /@nuxt/schema-edge/3.0.0-rc.9-27703329.537338f:
+    resolution: {integrity: sha512-dHSR7rQMWlxqUkaT0XPs27oJl3bqecaVY7SyKmp09gQg9vamGDaDIdRkXw//3t118+2OOtkQdDNgexuBH5t6gg==}
     engines: {node: ^14.16.0 || ^16.11.0 || ^17.0.0 || ^18.0.0}
     dependencies:
       c12: 0.2.11
@@ -781,14 +781,14 @@ packages:
       - webpack
     dev: true
 
-  /@nuxt/test-utils-edge/3.0.0-rc.8-27676327.dae836a:
-    resolution: {integrity: sha512-5gWoPXBhk5e/sCsPehporYGD128xFGxWpO5UGUQ9tGZ65t02rw8m/Fa0Y9eTrKt87/59MNwrHf+qWL/OSISVOQ==}
+  /@nuxt/test-utils-edge/3.0.0-rc.9-27703329.537338f:
+    resolution: {integrity: sha512-P2kND1FgOQV3o0WtTlV4YiqS4nzd2ghFIjJJWpBRrWJA9Tp4z/UK0+jZdDsWq/DiNN03b9XnWd3f2qnt1fHfhA==}
     engines: {node: ^14.16.0 || ^16.11.0 || ^17.0.0 || ^18.0.0}
     peerDependencies:
-      vue: ^3.2.37
+      vue: ^3.2.38
     dependencies:
-      '@nuxt/kit': /@nuxt/kit-edge/3.0.0-rc.8-27676327.dae836a
-      '@nuxt/schema': /@nuxt/schema-edge/3.0.0-rc.8-27676327.dae836a
+      '@nuxt/kit': /@nuxt/kit-edge/3.0.0-rc.9-27703329.537338f
+      '@nuxt/schema': /@nuxt/schema-edge/3.0.0-rc.9-27703329.537338f
       defu: 6.1.0
       execa: 6.1.0
       get-port-please: 2.6.1
