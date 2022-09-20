@@ -39,7 +39,7 @@
     "is-ci": "3.0.1",
     "lint-staged": "13.0.3",
     "msw": "0.47.1",
-    "nuxt": "3.0.0-rc.9",
+    "nuxt": "3.0.0-rc.11",
     "postcss-html": "1.5.0",
     "prettier": "2.7.1",
     "sass": "1.54.9",
