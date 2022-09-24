@@ -6,16 +6,13 @@ Opinionated Nuxt Starter Template
 
 ## Features
 
-- [Nuxt 3](https://v3.nuxtjs.org), [Vue 3](https://vuejs.org), [Vite 3](https://vitejs.dev)
-
-- [TypeScript](https://www.typescriptlang.org), of course
-
+- [Nuxt 3](https://v3.nuxtjs.org), [Vue 3](https://vuejs.org), [Vite 3](https://vitejs.dev), [TypeScript](https://www.typescriptlang.org)
 
 - [State Management](./src/stores) via [ Pinia](https://pinia.esm.dev/)
 
 - [UnoCSS](https://github.com/antfu/unocss) - The instant on-demand Atomic CSS engine
 
-- [Use icons from any icon sets](https://github.com/antfu/unocss/tree/main/packages/preset-icons#unocsspreset-icons)
+- Use icons from any icon sets via [NuxtIcon](https://github.com/nuxt-modules/icon)
 
 - [VueUse](https://github.com/antfu/vueuse) -  Collection of useful Vue Composition Utilities
 

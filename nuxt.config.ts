@@ -1,10 +1,7 @@
-import { defineNuxtConfig } from 'nuxt'
-
-// https://v3.nuxtjs.org/api/configuration/nuxt.config
 export default defineNuxtConfig({
-  typescript: { shim: false },
+  typescript: { shim: false, strict: true },
   experimental: { reactivityTransform: true },
 
-  modules: ['@vueuse/nuxt', '@unocss/nuxt', '@pinia/nuxt'],
+  modules: ['@vueuse/nuxt', '@unocss/nuxt', '@pinia/nuxt', 'nuxt-icon'],
   unocss: { preflight: true },
 })
