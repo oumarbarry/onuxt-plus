@@ -20,7 +20,7 @@
     "@pinia/nuxt": "0.4.3"
   },
   "devDependencies": {
-    "@nuxt/test-utils-edge": "3.0.0-rc.14-27799862.1496d3a",
+    "@nuxt/test-utils-edge": "3.0.0-rc.14-27802701.2f53495",
     "@testing-library/vue": "6.6.1",
     "@typescript-eslint/eslint-plugin": "5.42.1",
     "@typescript-eslint/parser": "5.42.1",
