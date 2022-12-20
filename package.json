@@ -27,7 +27,7 @@
     "@unocss/nuxt": "0.47.6",
     "@vitest/coverage-c8": "0.26.0",
     "@vueuse/core": "9.8.2",
-    "@vueuse/nuxt": "9.7.0",
+    "@vueuse/nuxt": "9.8.2",
     "eslint": "8.30.0",
     "eslint-config-prettier": "8.5.0",
     "eslint-plugin-jsonc": "2.5.0",
