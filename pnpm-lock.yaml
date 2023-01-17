@@ -8,7 +8,7 @@ specifiers:
   '@typescript-eslint/parser': 5.48.2
   '@unocss/nuxt': 0.48.4
   '@vitest/coverage-c8': 0.27.2
-  '@vueuse/core': 9.10.0
+  '@vueuse/core': 9.11.0
   '@vueuse/nuxt': 9.10.0
   eslint: 8.32.0
   eslint-config-prettier: 8.6.0
@@ -45,7 +45,7 @@ devDependencies:
   '@typescript-eslint/parser': 5.48.2_7uibuqfxkfaozanbtbziikiqje
   '@unocss/nuxt': 0.48.4
   '@vitest/coverage-c8': 0.27.2_q63o36drnil6fpatcuwdh4lch4
-  '@vueuse/core': 9.10.0
+  '@vueuse/core': 9.11.0
   '@vueuse/nuxt': 9.10.0_nuxt@3.0.0
   eslint: 8.32.0
   eslint-config-prettier: 8.6.0_eslint@8.32.0
@@ -1689,6 +1689,18 @@ packages:
       - vue
     dev: true
 
+  /@vueuse/core/9.11.0:
+    resolution: {integrity: sha512-7yZJ8LNOssA8ZmeSjd4F+wbFBA4csiP4TiaXgruqg1H4PAtzSkv93PPwFLvQkSnfo3Bar+e+6QoRvWjhz7l2Xg==}
+    dependencies:
+      '@types/web-bluetooth': 0.0.16
+      '@vueuse/metadata': 9.11.0
+      '@vueuse/shared': 9.11.0
+      vue-demi: 0.13.11
+    transitivePeerDependencies:
+      - '@vue/composition-api'
+      - vue
+    dev: true
+
   /@vueuse/head/1.0.20_vue@3.2.45:
     resolution: {integrity: sha512-mqQw4Gr+N/ZWwBAcMDCZ79qTj8Fmjv1NQnR/NOkn23+w6UhS6cUQbZlgzKZa1ITy4jdE6m9vMOU1DALLhJwzhQ==}
     peerDependencies:
@@ -1703,6 +1715,10 @@ packages:
 
   /@vueuse/metadata/9.10.0:
     resolution: {integrity: sha512-G5VZhgTCapzU9rv0Iq2HBrVOSGzOKb+OE668NxhXNcTjUjwYxULkEhAw70FtRLMZc+hxcFAzDZlKYA0xcwNMuw==}
+    dev: true
+
+  /@vueuse/metadata/9.11.0:
+    resolution: {integrity: sha512-HhtG2SWkcfZBLbamHdvLn7jKOCFpw/ifXjVTd5ilFkj98WVUk/3UTQ03wF1XIkuhSO4+b45hD2lfG9/GdKCF7w==}
     dev: true
 
   /@vueuse/nuxt/9.10.0_nuxt@3.0.0:
@@ -1725,6 +1741,15 @@ packages:
 
   /@vueuse/shared/9.10.0:
     resolution: {integrity: sha512-vakHJ2ZRklAzqmcVBL38RS7BxdBA4+5poG9NsSyqJxrt9kz0zX3P5CXMy0Hm6LFbZXUgvKdqAS3pUH1zX/5qTQ==}
+    dependencies:
+      vue-demi: 0.13.11
+    transitivePeerDependencies:
+      - '@vue/composition-api'
+      - vue
+    dev: true
+
+  /@vueuse/shared/9.11.0:
+    resolution: {integrity: sha512-8lO7wD5abYxupKy2KynH1pSgP715ky6iCrWYb8aX2AuAVi9uHXj7qE1dw6BnmArSaLHci4x9iuzWPCpAzUkC/A==}
     dependencies:
       vue-demi: 0.13.11
     transitivePeerDependencies:
