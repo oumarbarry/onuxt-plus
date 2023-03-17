@@ -24,7 +24,7 @@
     "@testing-library/vue": "7.0.0",
     "@typescript-eslint/eslint-plugin": "5.55.0",
     "@typescript-eslint/parser": "5.55.0",
-    "@unocss/nuxt": "0.50.4",
+    "@unocss/nuxt": "0.50.6",
     "@vitest/coverage-c8": "0.29.3",
     "@vueuse/core": "9.13.0",
     "@vueuse/nuxt": "9.13.0",
