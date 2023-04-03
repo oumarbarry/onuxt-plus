@@ -22,8 +22,8 @@
   "devDependencies": {
     "@nuxt/test-utils-edge": "3.0.0-rc.9-27703329.537338f",
     "@testing-library/vue": "7.0.0",
-    "@typescript-eslint/eslint-plugin": "5.57.0",
-    "@typescript-eslint/parser": "5.57.0",
+    "@typescript-eslint/eslint-plugin": "5.57.1",
+    "@typescript-eslint/parser": "5.57.1",
     "@unocss/nuxt": "0.50.6",
     "@vitest/coverage-c8": "0.29.8",
     "@vueuse/core": "9.13.0",
